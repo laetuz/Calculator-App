@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VSGA7Calculator</string>
+    <string name="tv1">Masukkan Dua Angka</string>
+    <string name="hint1">Angka pertama</string>
+    <string name="hint2">Angka kedua</string>
+    <string name="A1">+</string>
+    <string name="A2">-</string>
+    <string name="A3">X</string>
+    <string name="A4">/</string>
+    <string name="Hasil">Clear</string>
+</resources>
